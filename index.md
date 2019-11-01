@@ -6,4 +6,4 @@ Here is my Homework 1
 
 Here is my Homework 2
 
-[Homework2](RMarkdownHW2.html)
+[Homework2](EkinHW2.html)
