@@ -14,4 +14,4 @@ Here is my Homework 3
 
 Here you can find my comments on this week's premier league schedule..
 
-[Comments/Probabilities for Week 1](Prediction Week 1.xlsx)
+[Comments/Probabilities for Week 1](EkinComments1.html)
