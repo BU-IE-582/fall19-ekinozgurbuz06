@@ -7,3 +7,6 @@ Here is my Homework 1
 Here is my Homework 2
 
 [Homework2](EkinHW2.html)
+
+Here is my Homework 3
+[Homework3](EkinHW3RMarkdown.html)
